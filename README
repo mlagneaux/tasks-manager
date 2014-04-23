@@ -1,0 +1,16 @@
+Tasks Manager |
+---------------
+
+1. Summary
+----------
+Tasks manager is a tasks management web application.
+
+The aim of this project is to build a new and quite simple web application based on different languages and frameworks:
+- HTML5
+- CSS3
+- AngularJS
+- NodeJS
+- SQL or NoSQL database
+
+This project is also an opportunity to discover tools like git, npm, bower and others (perhaps karma, protractor, gradle).
+
